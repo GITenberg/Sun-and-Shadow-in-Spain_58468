@@ -1,11 +1,16 @@
 _repo: Sun-and-Shadow-in-Spain_58468
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58468-h/images/cover.jpg
 creator:
   author:
     agent_name: Elliott, Maude Howe
     gutenberg_agent_id: '49972'
     url: http://www.gutenberg.org/2009/agents/49972
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58468#Sun-and-Shadow-in-Spain
 gutenberg_issued: '2018-12-13'
 gutenberg_type: Text
 identifiers:
